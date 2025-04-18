@@ -1,4 +1,4 @@
-# PIston Exercise for CoDeSys
+# Piston Exercise for CoDeSys
 
 This repository contains a free exercise designed to help you take your first steps in developing state machines using CoDeSys.
 
